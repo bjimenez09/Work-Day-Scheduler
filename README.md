@@ -45,4 +45,4 @@ Finalized Screenshot
 - Live URL: https://bjimenez09.github.io/Work-Day-Scheduler/
 
 - - -
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
