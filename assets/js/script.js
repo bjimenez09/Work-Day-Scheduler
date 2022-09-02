@@ -5,7 +5,7 @@ $(document).ready(function(){
   
   // Display current time and date
   function updateTime() {
-    $('#currentDay').html(moment().format("MMM Do, YYYY, h:mm"));
+    $('#currentDay').html(moment().format("MMM Do, YYYY, h:mm:ss"));
   }
   setInterval(updateTime, 1000); 
   
