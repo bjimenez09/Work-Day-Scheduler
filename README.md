@@ -36,7 +36,7 @@ THEN the saved events persist
 
 Finalized Screenshot 
 
-![screenshot](/Develop/assets/images/scheduler-screenshot.png)
+![screenshot](/assets/images/scheduler-screenshot.png)
 
 ## Deployment
 
