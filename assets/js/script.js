@@ -15,7 +15,7 @@ $(document).ready(function(){
   $(".saveBtn").on("click", function(){
       var task = $(this).siblings(".description").val();
       var time = $(this).parent().attr("id");
-      //Saves task into localStorage
+      
       localStorage.setItem(time, task);
   }); 
   
@@ -29,7 +29,7 @@ $(document).ready(function(){
   $("#16 .description").val(localStorage.getItem("16"));
   $("#17 .description").val(localStorage.getItem("17"));
   
-  // Add more rows for more time
+  
   function timeChange(){
       var currentHour = moment().hour(); 
       
